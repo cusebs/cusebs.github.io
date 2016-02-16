@@ -1,0 +1,11 @@
+/*--------------------------Bubbles-----------------------------*/
+
+.one {
+	position:absolute;
+	left: 10px; top: 10px;
+}
+
+.two {
+	position:absolute;
+	left: 250px; top: 300px;
+}
